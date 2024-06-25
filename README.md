@@ -1,4 +1,4 @@
 # Notebooks
 This is an individual guide for developers
 
-Please go to <a href="[url](https://github.com/denizguvel/notebooks/wiki)">Wiki!</a>
+Please go to [Wiki!](https://github.com/denizguvel/notebooks/wiki)
